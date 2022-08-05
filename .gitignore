@@ -29,8 +29,3 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-
-
-# custom ignore
-/.dump_future_db.sql
-/.todo
